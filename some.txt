@@ -2,3 +2,6 @@ another test
 test
 new test
 one more test
+
+string 6
+String 7
